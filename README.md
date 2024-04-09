@@ -1,7 +1,9 @@
 - 👋 Hi, I’m Kholeka.
-- 👀 I’m interested in Data Science and Machine Learning Engineer.
-- 🌱 I’m currently learning both.
-- 💞️ I’m looking to collaborate with anyone who is interested in Data.
+- 👀 I’m interested in technology, specifically Data Science.
+-  🌱 I’m currently learning working on my data analytics project, check out my [website](https://kholeka98.github.io/Kholeka_Sibiya_Portfolio.github.io/).
+- 💞️ I  love collaborating with others to solve challenging problem.
+
+
 
 
 <!---
