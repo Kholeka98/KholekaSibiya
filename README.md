@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Kholeka.
 - 👀 I’m interested in technology, specifically Data.
--  🌱 I’m currently working on my data analytics project, check out my [website](https://kholeka98.github.io/Kholeka_Sibiya_Portfolio.github.io/).
+-  🌱 I’m currently working on my data analytics projects, check out my [website](https://kholeka98.github.io/Kholeka_Sibiya_Portfolio.github.io/).
 - 💞️ I  love collaborating with others to solve challenging problem.
 
 
